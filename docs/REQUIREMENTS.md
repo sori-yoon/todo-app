@@ -380,3 +380,4 @@ type TicketPriority = typeof TICKET_PRIORITY[keyof typeof TICKET_PRIORITY];
 - LOW: 회색 뱃지
 - MEDIUM: 파란색 뱃지
 - HIGH: 빨간색 뱃지
+ 
